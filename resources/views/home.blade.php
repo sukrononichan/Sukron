@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Menjual Transportasi Darat</title>
+    <title>Pedia store</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
     <style>
@@ -55,7 +55,7 @@
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
         <div class="container">
             <a class="navbar-brand fw-bold" href="#">
-                <i class="bi bi-shop me-2"></i>Kron Musk</a>
+                <i class="bi bi-shop me-2"></i>Pedia Store</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -65,7 +65,7 @@
                         <a class="nav-link active" href="/"><i class="bi bi-house-door me-1"></i>Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/products"><i class="bi bi-box-seam me-1"></i>Products</a>
+                        <a class="nav-link" href="/products"><i class="bi bi-box-seam me-1"></i>Games</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="/categories"><i class="bi bi-tags me-1"></i>Kategori</a>
@@ -78,8 +78,8 @@
     <div class="container py-5">
         <div class="row mb-5">
             <div class="col-md-8">
-                <h1 class="display-5 fw-bold mb-3">Land Transportation</h1>
-                <p class="text-muted">Dijual dengan harga terjangkau</p>
+                <h1 class="display-5 fw-bold mb-3">Store buat Gamers</h1>
+                <p class="text-muted">Kebutuhan top up game anda, lengkap disini</p>
             </div>
             <div class="col-md-4">
                 <div class="position-relative mb-3">

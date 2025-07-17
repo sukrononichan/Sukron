@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="csrf-token" content="{{ csrf_token() }}">
-    <title>Sukron Mush</title>
+    <title>Pedia Store</title>
     
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://cdn.datatables.net/1.13.7/css/dataTables.bootstrap5.min.css" rel="stylesheet">
@@ -15,7 +15,7 @@
     <nav class="mb-4">
         <ul class="nav nav-pills">
             <li class="nav-item">
-                <a class="nav-link" href="/products">Products</a>
+                <a class="nav-link" href="/products">Products Game</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link active" href="/categories">categories</a>
@@ -31,7 +31,7 @@
 
     <div class="row mb-4">
         <div class="col-md-6">
-            <h2>Daftar Kategori</h2>
+            <h2>Daftar Game</h2>
         </div>
         <div class="col-md-6 text-end">
             <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#categoryModal">
